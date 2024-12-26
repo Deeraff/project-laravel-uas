@@ -1,3 +1,7 @@
+Nama Kelompok: Deva Febriantika Mariana, Farid Restu Febriansyah, Muhammad Rizki Novanda Putra, Regiza Rahmadika Risandi
+
+Link Manual Book: https://onedrive.live.com/personal/a8120336681d06a7/_layouts/15/Doc.aspx?sourcedoc=%7Bd9db7769-8f10-4605-821d-949bee935d66%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy9hODEyMDMzNjY4MWQwNmE3L0VXbDMyOWtRandWR2doMlVtLTZUWFdZQnZoTXZwdm9LV0stMGcwTm8tcmtrTWc_ZT15d3hnTmc&slrid=9c5371a1-e00b-7000-5f95-1eac86ced304&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy9hODEyMDMzNjY4MWQwNmE3L0VXbDMyOWtRandWR2doMlVtLTZUWFdZQnZoTXZwdm9LV0stMGcwTm8tcmtrTWc_cnRpbWU9M3B2NktLMGwzVWc&CID=1d9ca5c9-c3ee-42b4-8cb8-547e2d09f9f4&_SRM=0:G:34
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
